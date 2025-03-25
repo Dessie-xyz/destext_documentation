@@ -8,4 +8,4 @@ Argument 2: Display Style
 - 1 Monospace
 - 2 Serif
 - 3 Ultra-legible
-- 4 
+- 4 Sans-serif
