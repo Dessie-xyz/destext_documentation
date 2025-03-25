@@ -116,7 +116,7 @@ Strikethrough End,113,1110001
 Underline Start,114,1110010
 Underline End,115,1110011
 Bullet,116,1110100
-Redacted Symbol (Similar to Unicode's Fullblock),117,1110101
+Fullblock,117,1110101
 Bold Start,118,1110110
 Bold End,119,1110111
 Italic Start,120,1111000
